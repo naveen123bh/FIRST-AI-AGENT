@@ -1,0 +1,16 @@
+# Core LLM and agent libraries
+langchain-openai>=0.0.18
+langchain>=0.1.35
+langgraph>=0.0.10
+langchain-communities>=0.0.5
+langchainhub>=0.0.7
+tiktoken>=0.4.0
+chromadb>=0.3.29
+tavily-python>=0.0.4
+
+# Wikipedia search
+wikipedia>=1.4.0
+
+# Utilities
+python-dotenv>=1.0.0  # optional, if you want to load TAVILY_API_KEY from .env
+
