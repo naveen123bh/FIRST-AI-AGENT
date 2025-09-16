@@ -1,10 +1,8 @@
-pip install langchain-openai>=0.3.31
-pip install langchain>=0.3.27
-pip install langchain-community>=0.0.5
-pip install langgraph>=0.6.6
-pip install wikipedia>=1.4.0
-pip install tiktoken>=0.5.2
-pip install chromadb>=0.3.2
-pip install python-dotenv>=1.0.0
-#pip install langchain-openai>=0.3.31 langchain>=0.3.27 langchain-community>=0.0.5 langgraph>=0.6.6 wikipedia>=1.4.0 tiktoken>=0.5.2 chromadb>=0.3.2 python-dotenv>=1.0.0
-
+langchain-openai>=0.3.31
+langchain>=0.3.27
+langchain-community>=0.0.5
+langgraph>=0.6.6
+wikipedia>=1.4.0
+tiktoken>=0.5.2
+chromadb>=0.3.2
+python-dotenv>=1.0.0
